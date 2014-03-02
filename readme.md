@@ -19,3 +19,11 @@ Documentation for the entire framework can be found on the [Laravel website](htt
 ### License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, quis, et, minima, soluta facilis omnis deserunt modi illum illo aspernatur corporis quibusdam sed quas necessitatibus veniam beatae unde iste aliquam.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis, quibusdam, amet, placeat provident sapiente aut quam eveniet atque ipsum vero totam porro veniam praesentium. Perferendis fugiat alias odit cum sequi!
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
